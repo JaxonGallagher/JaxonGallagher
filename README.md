@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JaxonGallagher
+- 👀 I’m interested in bruh
+- 🌱 I’m currently learning discord.js
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me, dont
